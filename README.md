@@ -11,6 +11,7 @@ Contains:
 2. Feasibility Study (Techincal Feasibility) 
 3. Grantt Chart
 4. Process Model
+5. System Size Effort And Time Estimation
 
 #### Deliverable #3:
 Contains:
