@@ -1,0 +1,4 @@
+Sentiment Analysis Report For Key Word: Palestine
+Tweets Retrieved: 100
+Tweets Labeled as Positive: 74
+Tweets Labeled as Negative: 26
